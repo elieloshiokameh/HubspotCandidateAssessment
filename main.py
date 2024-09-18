@@ -3,11 +3,11 @@ import json
 from datetime import datetime, timedelta
 
 # API keys and URLs
-GET_KEY = "3249d80513f04e8d507bdcf95fb0"
-POST_KEY = "3249d80513f04e8d507bdcf95fb0"
-GET_URL = "https://candidate.hubteam.com/candidateTest/v3/problem/dataset?userKey=3249d80513f04e8d507bdcf95fb0"
+GET_KEY = "getKey"
+POST_KEY = "postKey"
+GET_URL = "getUrl"
 
-POST_URL = "https://candidate.hubteam.com/candidateTest/v3/problem/result?userKey=3249d80513f04e8d507bdcf95fb0"
+POST_URL = "postUrl"
 
 
 
